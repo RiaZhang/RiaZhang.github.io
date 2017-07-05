@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/creative.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/creative.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

@@ -30,28 +30,44 @@
 
     // Initialize and Configure Scroll Reveal Animation
     window.sr = ScrollReveal();
-    sr.reveal('.sr-section', {
+    sr.reveal('.sr-section-about', {
+        duration: 1000,
+        distance: '15px',
+        delay: 200,
+    }, 300);
+    sr.reveal('.sr-section-services', {
+        duration: 1000,
+        distance: '15px',
+        delay: 200,
+    }, 300);
+    sr.reveal('.sr-section-portfolio', {
+        duration: 1000,
+        distance: '15px',
+        delay: 200,
+    }, 300);
+    sr.reveal('.sr-section-contact', {
+        duration: 1000,
+        distance: '15px',
+        delay: 200,
+    }, 300);
+    sr.reveal('.sr-works', {
         duration: 600,
         scale: 0.3,
-        distance: '20px',
-        reset: true
-    }, 300);
+        distance: '0px'
+    }, 200);
     sr.reveal('.sr-icons', {
         duration: 600,
         scale: 0.3,
         distance: '0px',
-        reset: true
     }, 200);
     sr.reveal('.sr-button', {
         duration: 1000,
         delay: 200,
-        reset: true
     });
     sr.reveal('.sr-contact', {
         duration: 600,
         scale: 0.3,
         distance: '0px',
-        reset: true
     }, 300);
 
     // Initialize and Configure Magnific Popup Lightbox Plugin
