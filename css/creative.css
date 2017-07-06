@@ -227,6 +227,7 @@ header .header-content .header-content-inner p {
   position: relative;
   display: block;
   max-width: 650px;
+    overflow: hidden;
   margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
@@ -265,6 +266,10 @@ header .header-content .header-content-inner p {
 }
 .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
+}
+.portfolio-box:hover .img-responsive {
+    transform: scale(1.2);
+    transition: all ease 0.75s;
 }
 .portfolio-box:focus {
   outline: none;
