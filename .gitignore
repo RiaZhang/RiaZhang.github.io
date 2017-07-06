@@ -1,0 +1,5 @@
+
+*.xml
+.idea/watcherTasks.xml
+.idea/workspace.xml
+.DS_Store
