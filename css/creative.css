@@ -149,7 +149,7 @@ aside {
 header {
   position: relative;
   width: 100%;
-  min-height: auto;
+  min-height: unset;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -422,13 +422,14 @@ body {
 
 
 .portfolio-modal .modal-content {
-  border-radius: 0;
+  border-radius: 10px;
+  border: 1px;
   background-clip: border-box;
   -webkit-box-shadow: none;
   box-shadow: none;
-  border: none;
   min-height: 100%;
   padding: 100px 0;
+  margin: 20px 50px;
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
@@ -528,4 +529,20 @@ body {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+}
+
+.video-js {
+  margin: 0px auto;
+}
+
+.nav-list-inline {
+  padding-left: 0;
+  margin-left: -5px;
+  list-style: none;
+}
+
+.nav-list-inline > li {
+  display: inline-block;
+  padding-right: 50px;
+  padding-left: 50px;
 }
