@@ -10,6 +10,8 @@
 由[Start Bootstrap](http://startbootstrap.com/)制作的[creative](https://startbootstrap.com/template-overviews/creative/)模版
 
 ## 更改日志
+### v0.3.3
+加入echo.js，可使详情页加载速度加快（功能未实践）
 ### v0.3.2
 更新了萌萌的网页图标，并修复了一些bug
 ### v0.3.1
