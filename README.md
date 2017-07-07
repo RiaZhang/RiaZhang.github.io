@@ -10,6 +10,8 @@
 由[Start Bootstrap](http://startbootstrap.com/)制作的[creative](https://startbootstrap.com/template-overviews/creative/)模版
 
 ## 更改日志
+### v0.3.2
+更新了萌萌的网页图标，并修复了一些bug
 ### v0.3.1
 对作品详情页面作出外观改进尝试，同时也做了新的作品详情加载方式（通过正常的打开新网页完成）
 ### v0.3.0
@@ -27,11 +29,15 @@
 ### v0.1.0
 添加CNAME文件，更改url为[riazhang.me](http://riazhang.me)
 
+## 目前问题
+ - safari下modal的视频元素加载过慢，可能需要将含有视频元素的详情页加载方式改为新开窗口加载
+ - 移动端浏览，modal框过窄，需平衡外观与兼容性
+
 ## 所需功能
 ### 2017-07-07
 - [ ] 选择合适的作品详情加载方式（目前偏向modal加载）
 - [ ] 窗口兼容性检查
-  - [ ] safari
+  - [x] safari
   - [x] chrome
   - [ ] edge
   - [ ] firefox
