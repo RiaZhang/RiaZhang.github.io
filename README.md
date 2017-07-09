@@ -10,6 +10,8 @@
 由[Start Bootstrap](http://startbootstrap.com/)制作的[creative](https://startbootstrap.com/template-overviews/creative/)模版
 
 ## 更改日志
+### v0.4.1
+添加tooltip，使详情页中的前一页后一页能显示提示
 ### v0.3.3
 加入echo.js，可使详情页加载速度加快（功能未实践）
 ### v0.3.2
@@ -37,16 +39,16 @@
 
 ## 所需功能
 ### 2017-07-07
-- [ ] 选择合适的作品详情加载方式（目前偏向modal加载）
-- [ ] 窗口兼容性检查
+- [x] 选择合适的作品详情加载方式（目前偏向modal加载）
+- [x] 窗口兼容性检查
   - [x] safari
   - [x] chrome
-  - [ ] edge
-  - [ ] firefox
-  - [ ] IE9
+  - [x] edge
+  - [x] firefox
+  - [x] 360
 - [ ] 完善联系方式
 - [ ] 字体、配色改进
-- [ ] 添加毛玻璃雨滴效果
+- [ ] ~~添加毛玻璃雨滴效果~~
 
 ### 2017-07-06
 - [ ] 添加覆盖整个网页的背景图片
