@@ -438,6 +438,8 @@ body {
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
@@ -550,4 +552,11 @@ body {
 .player {
   /*padding-bottom: 30px;*/
   padding-top: 30px;
+  max-width: 100%;
+  max-height: 100%;
 }
+
+/*embed.player {*/
+  /*max-width: 100%;*/
+  /*height: auto;*/
+/*}*/
