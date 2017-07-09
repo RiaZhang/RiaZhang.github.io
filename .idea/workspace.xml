@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="659b5319-f11f-4674-baea-86131b4ecb40" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/video/testmovie.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +23,7 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
+            <state relative-caret-position="1355">
               <caret line="431" column="17" lean-forward="false" selection-start-line="431" selection-start-column="17" selection-end-line="431" selection-end-column="17" />
               <folding />
             </state>
@@ -31,17 +33,17 @@
       <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
+            <state relative-caret-position="21435">
               <caret line="1429" column="0" lean-forward="false" selection-start-line="1429" selection-start-column="0" selection-end-line="1433" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="519">
               <caret line="3869" column="9" lean-forward="false" selection-start-line="3869" selection-start-column="9" selection-end-line="3869" selection-end-column="9" />
               <folding>
                 <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
@@ -70,10 +72,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="scrollreveal.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="85" column="77" lean-forward="true" selection-start-line="85" selection-start-column="77" selection-end-line="85" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="work1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works-info/work1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="609">
+            <state relative-caret-position="2085">
               <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="143" selection-end-column="9" />
               <folding />
             </state>
@@ -83,7 +95,7 @@
       <file leaf-file-name="work2.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/works-info/work2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="808">
+            <state relative-caret-position="810">
               <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
               <folding />
             </state>
@@ -94,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="607">
+              <first_editor relative-caret-position="765">
                 <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
                 <folding />
               </first_editor>
@@ -106,7 +118,7 @@
       <file leaf-file-name="creative.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/creative.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1335">
+            <state relative-caret-position="943">
               <caret line="89" column="32" lean-forward="false" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
               <folding />
             </state>
@@ -169,8 +181,8 @@
         <option value="$PROJECT_DIR$/works-info/work2.html" />
         <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
       </list>
     </option>
   </component>
@@ -204,6 +216,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -416,8 +430,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -533,12 +545,13 @@
       <workItem from="1499420349799" duration="3362000" />
       <workItem from="1499439321361" duration="636000" />
       <workItem from="1499557201529" duration="2664000" />
-      <workItem from="1499576530147" duration="3572000" />
+      <workItem from="1499576530147" duration="3623000" />
+      <workItem from="1499580878013" duration="112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38868000" />
+    <option name="totallyTimeSpent" value="39031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -965,14 +978,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/creative.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1335">
-          <caret line="89" column="32" lean-forward="false" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/echo/echo.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -982,7 +987,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works-info/work2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="808">
+        <state relative-caret-position="810">
           <caret line="54" column="16" lean-forward="true" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
           <folding />
         </state>
@@ -991,7 +996,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="607">
+          <first_editor relative-caret-position="765">
             <caret line="51" column="4" lean-forward="false" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
             <folding />
           </first_editor>
@@ -999,25 +1004,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/creative.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="431" column="17" lean-forward="false" selection-start-line="431" selection-start-column="17" selection-end-line="431" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="87" column="31" lean-forward="false" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendor/bootstrap/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
+        <state relative-caret-position="21435">
           <caret line="1429" column="0" lean-forward="false" selection-start-line="1429" selection-start-column="0" selection-end-line="1433" selection-end-column="1" />
           <folding />
         </state>
@@ -1025,7 +1014,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/works-info/work1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
+        <state relative-caret-position="2085">
           <caret line="139" column="0" lean-forward="false" selection-start-line="139" selection-start-column="0" selection-end-line="143" selection-end-column="9" />
           <folding />
         </state>
@@ -1033,7 +1022,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="519">
           <caret line="3869" column="9" lean-forward="false" selection-start-line="3869" selection-start-column="9" selection-end-line="3869" selection-end-column="9" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
@@ -1058,6 +1047,30 @@
             <element signature="n#div#13;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#14;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/creative.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1355">
+          <caret line="431" column="17" lean-forward="false" selection-start-line="431" selection-start-column="17" selection-end-line="431" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/creative.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="943">
+          <caret line="89" column="32" lean-forward="false" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="85" column="77" lean-forward="true" selection-start-line="85" selection-start-column="77" selection-end-line="85" selection-end-column="77" />
+          <folding />
         </state>
       </provider>
     </entry>
