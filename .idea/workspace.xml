@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="659b5319-f11f-4674-baea-86131b4ecb40" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/video/testmovie.mp4" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" afterPath="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" />
     </list>
@@ -75,8 +74,8 @@
       <file leaf-file-name="scrollreveal.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="85" column="77" lean-forward="true" selection-start-line="85" selection-start-column="77" selection-end-line="85" selection-end-column="77" />
+            <state relative-caret-position="343">
+              <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -546,12 +545,12 @@
       <workItem from="1499439321361" duration="636000" />
       <workItem from="1499557201529" duration="2664000" />
       <workItem from="1499576530147" duration="3623000" />
-      <workItem from="1499580878013" duration="112000" />
+      <workItem from="1499580878013" duration="137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39031000" />
+    <option name="totallyTimeSpent" value="39056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1068,8 +1067,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="85" column="77" lean-forward="true" selection-start-line="85" selection-start-column="77" selection-end-line="85" selection-end-column="77" />
+        <state relative-caret-position="343">
+          <caret line="89" column="45" lean-forward="false" selection-start-line="89" selection-start-column="45" selection-end-line="89" selection-end-column="45" />
           <folding />
         </state>
       </provider>
