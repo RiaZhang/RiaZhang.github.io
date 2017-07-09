@@ -429,7 +429,7 @@ body {
   box-shadow: none;
   min-height: 100%;
   padding: 100px 0;
-  margin: 20px 50px;
+  margin: 20px 70px;
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
@@ -547,14 +547,7 @@ body {
   padding-left: 50px;
 }
 
-/*.work-previous-button {*/
-  /*margin-left: -70px;*/
-/*}*/
-
-/*.work-return-button {*/
-  /*margin-left: -60px;*/
-/*}*/
-
-/*.work-next-button {*/
-  /*margin-left: 70px;*/
-/*}*/
+.player {
+  /*padding-bottom: 30px;*/
+  padding-top: 30px;
+}
