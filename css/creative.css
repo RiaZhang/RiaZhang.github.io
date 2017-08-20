@@ -7,12 +7,13 @@ html,
 body {
   height: 100%;
   width: 100%;
+  background-color: #121212;
 }
 body {
   font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 }
 hr {
-  border-color: #F05F40;
+  border-color: #349ce7;
   border-width: 3px;
   max-width: 50px;
 }
@@ -23,11 +24,11 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #F05F40;
+  color: #349ce7;
 }
 a:hover,
 a:focus {
-  color: #eb3812;
+  color: #002fa7;
 }
 h1,
 h2,
@@ -36,18 +37,20 @@ h4,
 h5,
 h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  color: white;
 }
 p {
   font-size: 16px;
   line-height: 1.5;
   margin-bottom: 20px;
+  color: white;
 }
 .bg-primary {
-  background-color: #F05F40;
+  background-color: #349ce7;
 }
 .bg-dark {
-  background-color: #222222;
-  color: white;
+  background-color: white;
+  color: black;
 }
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
@@ -62,7 +65,7 @@ aside {
   padding: 0;
 }
 .navbar-default {
-  background-color: white;
+  background-color: #121212;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.35s;
@@ -70,19 +73,19 @@ aside {
   transition: all 0.35s;
 }
 .navbar-default .navbar-header .navbar-brand {
-  color: #F05F40;
+  color: #349ce7;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 700;
   text-transform: uppercase;
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #eb3812;
+  color: #002fa7;
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-weight: 700;
   font-size: 12px;
-  color: #222222;
+  color: white;
   text-transform: uppercase;
 }
 .navbar-default .nav > li > a,
@@ -90,15 +93,15 @@ aside {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 13px;
-  color: #222222;
+  color: white;
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #F05F40;
+  color: #349ce7;
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #F05F40 !important;
+  color: #349ce7 !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -126,24 +129,24 @@ aside {
     color: white;
   }
   .navbar-default.affix {
-    background-color: white;
+    background-color: #121212;
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
-    color: #F05F40;
+    color: #349ce7;
     font-size: 14px;
   }
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #002fa7;
   }
   .navbar-default.affix .nav > li > a,
   .navbar-default.affix .nav > li > a:focus {
-    color: #222222;
+    color: rgba(255, 255, 255, 0.6);
   }
   .navbar-default.affix .nav > li > a:hover,
   .navbar-default.affix .nav > li > a:focus:hover {
-    color: #F05F40;
+    color: white;
   }
 }
 header {
@@ -158,7 +161,7 @@ header {
   background-image: url('../img/cover.gif');
   /*background-attachment: fixed;*/
   text-align: center;
-  color: white;
+  color: #121212;
 }
 /*header .carousel {*/
   /*!*position: absolute;*!*/
@@ -247,14 +250,14 @@ header .header-content .header-content-inner p {
   position: relative;
   display: block;
   max-width: 650px;
-    overflow: hidden;
+  overflow: hidden;
   margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
   color: white;
   opacity: 0;
   display: block;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(52, 156, 231, 0.8);
   position: absolute;
   bottom: 0;
   text-align: center;
@@ -306,16 +309,16 @@ header .header-content .header-content-inner p {
   margin: 0 auto 20px;
 }
 .text-primary {
-  color: #F05F40;
+  color: #349ce7;
 }
 .no-gutter > [class*='col-'] {
   padding-right: 0;
   padding-left: 0;
 }
 .btn-default {
-  color: #222222;
-  background-color: white;
-  border-color: white;
+  color: white;
+  background-color: #121212;
+  border-color: #121212;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -326,9 +329,9 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: #222222;
-  background-color: #f2f2f2;
-  border-color: #ededed;
+  color: white;
+  background-color: #121212;
+  border-color: #121212;
 }
 .btn-default:active,
 .btn-default.active,
@@ -353,7 +356,7 @@ fieldset[disabled] .btn-default:active,
 .btn-default.disabled.active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
-  background-color: white;
+  background-color: #121212;
   border-color: white;
 }
 .btn-default .badge {
@@ -366,7 +369,7 @@ fieldset[disabled] .btn-default.active {
   /*border: 5px white;*/
   border-color: white;
   border-width: 20px;
-  opacity: 0.6;
+  opacity: 0.4;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
@@ -380,7 +383,9 @@ fieldset[disabled] .btn-default.active {
   color: white;
   background-color: black;
   border-color: white;
-  opacity: 0.3;
+  opacity: 0.8;
+  transform: scale(1.1);
+  transition: all ease 0.75s;
 }
 .btn-primary:active,
 .btn-primary.active,
@@ -405,11 +410,11 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #349ce7;
+  border-color: #349ce7;
 }
 .btn-primary .badge {
-  color: #F05F40;
+  color: #349ce7;
   background-color: white;
 }
 .btn {
@@ -450,6 +455,7 @@ body {
   border-radius: 10px;
   border: 1px;
   background-clip: border-box;
+  background-color: #121212;
   -webkit-box-shadow: none;
   box-shadow: none;
   min-height: 100%;
@@ -485,7 +491,7 @@ body {
   height: 25px;
   width: 1px;
   margin-left: 0px;
-  background-color: #2C3E50;
+  background-color: white;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -496,7 +502,7 @@ body {
 .portfolio-modal .close-modal .lr .rl {
   height: 25px;
   width: 1px;
-  background-color: #2C3E50;
+  background-color: white;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
