@@ -63,6 +63,7 @@ aside {
 }
 .no-padding {
   padding: 0;
+  margin: 50px auto 0;
 }
 .navbar-default {
   background-color: #121212;
@@ -612,4 +613,8 @@ body {
 .carousel-fade .carousel-inner .next.left,.carousel-fade .carousel-inner .prev.right {
     opacity: 1;
     transition: all ease 1s;
+}
+
+.fail-load-link {
+  opacity: 0.7;
 }
