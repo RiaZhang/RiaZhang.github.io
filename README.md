@@ -10,6 +10,8 @@
 由[Start Bootstrap](http://startbootstrap.com/)制作的[creative](https://startbootstrap.com/template-overviews/creative/)模版
 
 ## 更改日志
+### v0.6.0
+略微更改作品详情模块布局，让图上的字更清楚
 ### v0.5.0
 大幅更新网站配色，增加潜在的幻灯片效果功能
 ### v0.4.1
