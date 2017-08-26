@@ -42,7 +42,8 @@ h6 {
 p {
   font-size: 16px;
   line-height: 1.5;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
   color: white;
 }
 .bg-primary {
@@ -467,13 +468,18 @@ body {
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
+  font-family: Microsoft YaHei, SimHei, 'Open Sans','Helvetica Neue',Arial,sans-serif;
   margin: 0;
   font-size: 3em;
 }
 .portfolio-modal .modal-content img {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
+}
+.portfolio-modal .modal-content p {
+  padding-left: 5%;
+  padding-right: 5%;
 }
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
