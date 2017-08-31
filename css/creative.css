@@ -322,8 +322,8 @@ header .header-content .header-content-inner p {
   border: none;
   font-weight: 700;
   text-transform: uppercase;
-  color: white;
-  background-color: #121212;
+  color: #121212;
+  background-color: white;
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 3s;
@@ -334,8 +334,8 @@ header .header-content .header-content-inner p {
 .btn-default:active,
 .btn-default.active,
 .open > .dropdown-toggle.btn-default {
-  color: white;
-  background-color: #121212;
+  color: #121212;
+  background-color: white;
 }
 .btn-default:active,
 .btn-default.active,
@@ -459,7 +459,7 @@ body {
   border-radius: 10px;
   border: 1px;
   background-clip: border-box;
-  background-color: #121212;
+  background-color: white;
   -webkit-box-shadow: none;
   box-shadow: none;
   min-height: 100%;
@@ -471,6 +471,13 @@ body {
   font-family: Microsoft YaHei, SimHei, 'Open Sans','Helvetica Neue',Arial,sans-serif;
   margin: 0;
   font-size: 3em;
+  color: #121212;
+}
+/*.portfolio-modal .modal-content h2 {*/
+  /*color: #121212;*/
+/*}*/
+.portfolio-modal .modal-content p {
+  color: #121212;
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 0px;
