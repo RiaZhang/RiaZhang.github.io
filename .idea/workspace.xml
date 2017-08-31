@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659b5319-f11f-4674-baea-86131b4ecb40" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.min.css" afterPath="$PROJECT_DIR$/css/creative.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +22,8 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="650" column="3" lean-forward="true" selection-start-line="650" selection-start-column="3" selection-end-line="650" selection-end-column="3" />
+            <state relative-caret-position="902">
+              <caret line="640" column="1" lean-forward="true" selection-start-line="640" selection-start-column="1" selection-end-line="640" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -29,14 +32,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="201" column="41" lean-forward="false" selection-start-line="201" selection-start-column="41" selection-end-line="201" selection-end-column="41" />
+            <state relative-caret-position="231">
+              <caret line="704" column="44" lean-forward="true" selection-start-line="704" selection-start-column="44" selection-end-line="704" selection-end-column="44" />
               <folding>
                 <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -85,8 +87,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>max-width</find>
-      <find>primary</find>
       <find>header.jpg</find>
       <find>close-modal</find>
       <find>header</find>
@@ -112,14 +112,17 @@
       <find>width=&quot;544&quot;</find>
       <find>modal-content</find>
       <find>btn-de</find>
-      <find>modal</find>
       <find>media</find>
+      <find>modal</find>
+      <find>fade</find>
       <find>视频加载</find>
+      <find>col-lg-8 col-lg-offset-2 col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2</find>
     </findStrings>
     <replaceStrings>
       <replace>white</replace>
       <replace>class=&quot;col-lg-8 col-lg-offset-2 col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2&quot;</replace>
       <replace>width=80%</replace>
+      <replace>col-lg-12 col-xs-12 col-sm-12</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -385,12 +388,12 @@
       <workItem from="1503759877578" duration="184000" />
       <workItem from="1503760071591" duration="1000" />
       <workItem from="1504158223726" duration="1342000" />
-      <workItem from="1504189848391" duration="2113000" />
+      <workItem from="1504189848391" duration="2973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69653000" />
+    <option name="totallyTimeSpent" value="70513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -435,7 +438,6 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -465,7 +467,6 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -592,7 +593,6 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -622,7 +622,6 @@
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -815,22 +814,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="650" column="3" lean-forward="true" selection-start-line="650" selection-start-column="3" selection-end-line="650" selection-end-column="3" />
+        <state relative-caret-position="902">
+          <caret line="640" column="1" lean-forward="true" selection-start-line="640" selection-start-column="1" selection-end-line="640" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="201" column="41" lean-forward="false" selection-start-line="201" selection-start-column="41" selection-end-line="201" selection-end-column="41" />
+        <state relative-caret-position="231">
+          <caret line="704" column="44" lean-forward="true" selection-start-line="704" selection-start-column="44" selection-end-line="704" selection-end-column="44" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />

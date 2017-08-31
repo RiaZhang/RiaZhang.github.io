@@ -639,7 +639,9 @@ body {
 .fail-load-link {
   opacity: 0.7;
 }
-
+.fade.in{
+  transition-duration: 0.6s;
+}
 embed {
   height: 556px;
   width: 680px;
