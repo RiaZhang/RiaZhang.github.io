@@ -513,7 +513,7 @@ body {
   height: 25px;
   width: 1px;
   margin-left: 0px;
-  background-color: white;
+  background-color: #121212;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -524,7 +524,7 @@ body {
 .portfolio-modal .close-modal .lr .rl {
   height: 25px;
   width: 1px;
-  background-color: white;
+  background-color: #121212;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
