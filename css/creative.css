@@ -491,6 +491,9 @@ body {
 .portfolio-modal .modal-content hr {
   margin-bottom: 30px;
 }
+.portfolio-modal .modal-content .btn-default {
+  margin-top: 20px;
+}
 .portfolio-modal .modal-content .item-details {
   margin: 30px 0;
 }
@@ -635,4 +638,15 @@ body {
 
 .fail-load-link {
   opacity: 0.7;
+}
+
+embed {
+  height: 556px;
+  width: 680px;
+}
+@media (max-width: 767px) {
+  embed {
+    height: 556px;
+    width: 80%;
+  }
 }
