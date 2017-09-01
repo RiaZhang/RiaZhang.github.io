@@ -467,6 +467,11 @@ body {
   margin: 20px 70px;
   text-align: center;
 }
+@media (max-width: 768px) {
+  .portfolio-modal .modal-content {
+    margin: 10px 5px;
+  }
+}
 .portfolio-modal .modal-content h2 {
   font-family: Microsoft YaHei, SimHei, 'Open Sans','Helvetica Neue',Arial,sans-serif;
   margin: 0;

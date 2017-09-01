@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659b5319-f11f-4674-baea-86131b4ecb40" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/4.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.css" afterPath="$PROJECT_DIR$/css/creative.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/creative.min.css" afterPath="$PROJECT_DIR$/css/creative.min.css" />
@@ -22,8 +26,8 @@
       <file leaf-file-name="creative.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/creative.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="526" column="27" lean-forward="false" selection-start-line="526" selection-start-column="27" selection-end-line="526" selection-end-column="27" />
+            <state relative-caret-position="309">
+              <caret line="470" column="35" lean-forward="true" selection-start-line="470" selection-start-column="35" selection-end-line="470" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -32,8 +36,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="546" column="52" lean-forward="false" selection-start-line="546" selection-start-column="52" selection-end-line="546" selection-end-column="52" />
+            <state relative-caret-position="342">
+              <caret line="558" column="20" lean-forward="true" selection-start-line="558" selection-start-column="20" selection-end-line="558" selection-end-column="20" />
               <folding>
                 <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -45,7 +49,6 @@
                 <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -102,7 +105,6 @@
       <find>modal-content</find>
       <find>btn-de</find>
       <find>media</find>
-      <find>modal</find>
       <find>fade</find>
       <find>视频加载</find>
       <find>col-lg-8 col-lg-offset-2 col-xs-8 col-xs-offset-2 col-sm-8 col-sm-offset-2</find>
@@ -116,6 +118,7 @@
       <find>波立得</find>
       <find>close-modal</find>
       <find>fail-load-link</find>
+      <find>modal</find>
     </findStrings>
     <replaceStrings>
       <replace>white</replace>
@@ -179,7 +182,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,6 +232,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -375,12 +378,13 @@
       <workItem from="1503760071591" duration="1000" />
       <workItem from="1504158223726" duration="1342000" />
       <workItem from="1504189848391" duration="3030000" />
-      <workItem from="1504200830005" duration="3170000" />
+      <workItem from="1504200830005" duration="3262000" />
+      <workItem from="1504277542565" duration="865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73740000" />
+    <option name="totallyTimeSpent" value="74697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -431,7 +435,6 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -459,7 +462,6 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -584,7 +586,6 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -612,7 +613,6 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -797,16 +797,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="526" column="27" lean-forward="false" selection-start-line="526" selection-start-column="27" selection-end-line="526" selection-end-column="27" />
+        <state relative-caret-position="309">
+          <caret line="470" column="35" lean-forward="true" selection-start-line="470" selection-start-column="35" selection-end-line="470" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="546" column="52" lean-forward="false" selection-start-line="546" selection-start-column="52" selection-end-line="546" selection-end-column="52" />
+        <state relative-caret-position="342">
+          <caret line="558" column="20" lean-forward="true" selection-start-line="558" selection-start-column="20" selection-end-line="558" selection-end-column="20" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -818,7 +818,6 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#7;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
