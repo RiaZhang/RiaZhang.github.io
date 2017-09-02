@@ -2,378 +2,380 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659b5319-f11f-4674-baea-86131b4ecb40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78ms-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78ms-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/83pv-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90ms-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90ms-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90msp-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90msp-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90pv-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90pv-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-0.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-1.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-3.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-4.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-5.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-6.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-UCS2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-0.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-1.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-3.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-4.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-5.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-UCS2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-0.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-1.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-3.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-4.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-5.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-6.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-UCS2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-0.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-1.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-UCS2.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5pc-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5pc-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS1-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS1-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS2-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS2-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETHK-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETHK-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETen-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETen-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETenms-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETenms-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK2K-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK2K-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBKp-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBKp-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBTpc-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBTpc-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBpc-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBpc-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdla-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdla-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdlb-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdlb-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKgccs-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKgccs-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm314-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm314-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm471-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm471-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKscs-B5-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKscs-B5-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Hankaku.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Hiragana.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-Johab-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-Johab-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-HW-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-HW-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCpc-EUC-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCpc-EUC-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Katakana.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/NWP-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/NWP-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/RKSJ-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/RKSJ-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Roman.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UCS2-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UCS2-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF16-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF16-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF8-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF8-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UCS2-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UCS2-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF16-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF16-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF8-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF8-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-HW-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-HW-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF16-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF16-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF8-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF8-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF16-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF16-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF8-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF8-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISPro-UCS2-HW-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISPro-UCS2-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISPro-UTF8-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX0213-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX0213-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX02132004-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX02132004-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UCS2-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UCS2-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF16-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF16-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF32-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF32-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF8-H.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF8-V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/V.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/WP-Symbol.bcmap" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/compressed.tracemonkey-pldi-09.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/grab.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/grabbing.cur" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/loading-icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/loading-small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/loading-small@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-documentProperties.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-documentProperties@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-firstPage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-firstPage@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-handTool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-handTool@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-lastPage.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-lastPage@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCcw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCcw@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCw@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/shadow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/texture.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-bookmark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-bookmark@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-download@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-menuArrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-menuArrows@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-openFile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-openFile@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-presentationMode.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-presentationMode@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-print.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-print@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-search@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewAttachments.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewAttachments@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewThumbnail.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewThumbnail@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomIn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomIn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomOut.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomOut@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed-rtl.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed-rtl@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-expanded.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-expanded@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bg/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/el/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/gu-IN/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/or/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sah/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/si/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/te/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/th/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/build/pdf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/build/pdf.worker.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/debugger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-check.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-comment.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-help.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-insert.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-key.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-newparagraph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-noicon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-note.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-paragraph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/l10n.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ach/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/af/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ak/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/an/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ar/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/as/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ast/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/az/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/be/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bn-BD/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bn-IN/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/br/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bs/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ca/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/cs/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/csb/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/cy/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/da/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/de/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/en-GB/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/en-US/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/en-ZA/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/eo/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-AR/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-CL/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-ES/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-MX/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/et/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/eu/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fa/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ff/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fi/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fr/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fy-NL/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ga-IE/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/gd/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/gl/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/he/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hi-IN/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hr/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hu/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hy-AM/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/id/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/is/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/it/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ja/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ka/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/kk/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/km/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/kn/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ko/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ku/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lg/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lij/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/locale.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lt/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lv/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mai/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mk/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ml/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mn/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mr/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ms/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/my/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nb-NO/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nl/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nn-NO/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nso/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/oc/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pa-IN/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pl/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pt-BR/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pt-PT/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/rm/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ro/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ru/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/rw/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sk/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sl/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/son/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sq/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sr/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sv-SE/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sw/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ta-LK/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ta/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/tl/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/tn/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/tr/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/uk/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ur/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/vi/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/wo/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/xh/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/zh-CN/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/zh-TW/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/locale/zu/viewer.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/works-info/pdf-1.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/portfolio/test-img/K_means聚类算法研究综述_王千.pdf" afterPath="$PROJECT_DIR$/works-info/K_means聚类算法研究综述_王千.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/LICENSE" afterPath="$PROJECT_DIR$/works-info/pdfjs/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/build/pdf.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/build/pdf.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/build/pdf.worker.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/build/pdf.worker.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78ms-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78ms-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/78ms-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/78ms-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/83pv-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/83pv-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90ms-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/90ms-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90ms-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/90ms-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90msp-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/90msp-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90msp-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/90msp-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90pv-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/90pv-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/90pv-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/90pv-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Add-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Add-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Add-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Add-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Add-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-0.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-0.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-1.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-1.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-3.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-3.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-4.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-4.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-5.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-5.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-6.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-6.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-CNS1-UCS2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-CNS1-UCS2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-0.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-0.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-1.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-1.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-3.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-3.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-4.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-4.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-5.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-5.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-GB1-UCS2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-GB1-UCS2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-0.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-0.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-1.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-1.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-3.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-3.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-4.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-4.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-5.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-5.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-6.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-6.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Japan1-UCS2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Japan1-UCS2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-0.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Korea1-0.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-1.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Korea1-1.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Korea1-2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Adobe-Korea1-UCS2.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Adobe-Korea1-UCS2.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5pc-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/B5pc-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/B5pc-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/B5pc-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/CNS-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/CNS-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS1-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/CNS1-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS1-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/CNS1-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS2-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/CNS2-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/CNS2-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/CNS2-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETHK-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/ETHK-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETHK-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/ETHK-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETen-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/ETen-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETen-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/ETen-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETenms-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/ETenms-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/ETenms-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/ETenms-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Ext-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Ext-RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Ext-RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Ext-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Ext-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GB-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GB-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GB-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GB-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GB-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBK-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBK-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK2K-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBK2K-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBK2K-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBK2K-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBKp-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBKp-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBKp-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBKp-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBT-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBT-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBT-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBT-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBT-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBTpc-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBTpc-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBTpc-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBTpc-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBpc-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBpc-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/GBpc-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/GBpc-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdla-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKdla-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdla-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKdla-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdlb-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKdlb-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKdlb-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKdlb-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKgccs-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKgccs-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKgccs-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKgccs-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm314-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKm314-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm314-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKm314-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm471-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKm471-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKm471-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKm471-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKscs-B5-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKscs-B5-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/HKscs-B5-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/HKscs-B5-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Hankaku.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Hankaku.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Hiragana.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Hiragana.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSC-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSC-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-Johab-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSC-Johab-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-Johab-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSC-Johab-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSCms-UHC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-HW-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSCms-UHC-HW-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-HW-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSCms-UHC-HW-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCms-UHC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSCms-UHC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCpc-EUC-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSCpc-EUC-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/KSCpc-EUC-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/KSCpc-EUC-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Katakana.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Katakana.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/LICENSE" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/NWP-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/NWP-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/NWP-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/NWP-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/RKSJ-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/RKSJ-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/RKSJ-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/RKSJ-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/Roman.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/Roman.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UCS2-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UCS2-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UCS2-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UCS2-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF16-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UTF16-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF16-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UTF16-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF8-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UTF8-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniCNS-UTF8-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniCNS-UTF8-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UCS2-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UCS2-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UCS2-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UCS2-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF16-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UTF16-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF16-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UTF16-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF8-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UTF8-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniGB-UTF8-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniGB-UTF8-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UCS2-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-HW-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UCS2-HW-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-HW-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UCS2-HW-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UCS2-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UCS2-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF16-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UTF16-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF16-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UTF16-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF8-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UTF8-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS-UTF8-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS-UTF8-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF16-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS2004-UTF16-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF16-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS2004-UTF16-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS2004-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS2004-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF8-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS2004-UTF8-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJIS2004-UTF8-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJIS2004-UTF8-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISPro-UCS2-HW-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISPro-UCS2-HW-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISPro-UCS2-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISPro-UCS2-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISPro-UTF8-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISPro-UTF8-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX0213-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISX0213-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX0213-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISX0213-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX02132004-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISX02132004-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniJISX02132004-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniJISX02132004-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UCS2-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UCS2-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UCS2-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UCS2-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF16-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UTF16-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF16-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UTF16-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF32-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UTF32-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF32-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UTF32-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF8-H.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UTF8-H.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/UniKS-UTF8-V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/UniKS-UTF8-V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/V.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/V.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/cmaps/WP-Symbol.bcmap" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/cmaps/WP-Symbol.bcmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/compressed.tracemonkey-pldi-09.pdf" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/compressed.tracemonkey-pldi-09.pdf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/debugger.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/debugger.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/debugger.min.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/debugger.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-check.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-check.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-comment.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-comment.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-help.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-help.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-insert.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-insert.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-key.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-key.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-newparagraph.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-newparagraph.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-noicon.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-noicon.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-note.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-note.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/annotation-paragraph.svg" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/annotation-paragraph.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-next-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-next-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-next.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-next@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-next@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-previous-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-previous-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-previous.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/findbarButton-previous@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/findbarButton-previous@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/grab.cur" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/grab.cur" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/grabbing.cur" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/grabbing.cur" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/loading-icon.gif" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/loading-icon.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/loading-small.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/loading-small.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/loading-small@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/loading-small@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-documentProperties.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-documentProperties.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-documentProperties@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-documentProperties@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-firstPage.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-firstPage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-firstPage@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-firstPage@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-handTool.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-handTool.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-handTool@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-handTool@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-lastPage.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-lastPage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-lastPage@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-lastPage@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCcw.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-rotateCcw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCcw@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-rotateCcw@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCw.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-rotateCw.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/secondaryToolbarButton-rotateCw@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/secondaryToolbarButton-rotateCw@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/shadow.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/shadow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/texture.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/texture.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-bookmark.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-bookmark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-bookmark@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-bookmark@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-download.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-download.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-download@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-download@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-menuArrows.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-menuArrows.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-menuArrows@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-menuArrows@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-openFile.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-openFile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-openFile@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-openFile@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageDown-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageDown-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageDown.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageDown@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageDown@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageUp-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageUp-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageUp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-pageUp@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-pageUp@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-presentationMode.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-presentationMode.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-presentationMode@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-presentationMode@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-print.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-print.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-print@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-print@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-search.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-search.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-search@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-search@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-secondaryToolbarToggle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-secondaryToolbarToggle@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-secondaryToolbarToggle@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-sidebarToggle-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-sidebarToggle-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-sidebarToggle.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-sidebarToggle@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-sidebarToggle@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewAttachments.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewAttachments.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewAttachments@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewAttachments@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewOutline-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewOutline-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewOutline.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewOutline@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewOutline@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewThumbnail.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewThumbnail.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-viewThumbnail@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-viewThumbnail@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomIn.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-zoomIn.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomIn@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-zoomIn@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomOut.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-zoomOut.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/toolbarButton-zoomOut@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/toolbarButton-zoomOut@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed-rtl.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/treeitem-collapsed-rtl.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed-rtl@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/treeitem-collapsed-rtl@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/treeitem-collapsed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-collapsed@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/treeitem-collapsed@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-expanded.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/treeitem-expanded.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/images/treeitem-expanded@2x.png" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/images/treeitem-expanded@2x.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/l10n.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/l10n.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/l10n.min.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/l10n.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ach/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ach/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/af/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/af/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ak/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ak/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/an/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/an/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ar/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ar/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/as/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/as/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ast/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ast/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/az/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/az/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/be/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/be/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bg/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/bg/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bn-BD/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/bn-BD/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bn-IN/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/bn-IN/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/br/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/br/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/bs/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/bs/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ca/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ca/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/cs/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/cs/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/csb/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/csb/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/cy/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/cy/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/da/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/da/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/de/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/de/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/el/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/el/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/en-GB/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/en-GB/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/en-US/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/en-US/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/en-ZA/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/en-ZA/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/eo/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/eo/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-AR/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/es-AR/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-CL/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/es-CL/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-ES/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/es-ES/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/es-MX/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/es-MX/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/et/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/et/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/eu/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/eu/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fa/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/fa/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ff/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ff/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fi/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/fi/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fr/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/fr/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/fy-NL/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/fy-NL/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ga-IE/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ga-IE/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/gd/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/gd/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/gl/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/gl/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/gu-IN/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/gu-IN/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/he/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/he/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hi-IN/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/hi-IN/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hr/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/hr/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hu/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/hu/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/hy-AM/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/hy-AM/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/id/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/id/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/is/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/is/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/it/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/it/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ja/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ja/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ka/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ka/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/kk/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/kk/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/km/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/km/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/kn/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/kn/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ko/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ko/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ku/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ku/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lg/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/lg/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lij/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/lij/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/locale.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/locale.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lt/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/lt/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/lv/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/lv/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mai/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/mai/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mk/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/mk/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ml/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ml/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mn/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/mn/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/mr/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/mr/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ms/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ms/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/my/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/my/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nb-NO/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/nb-NO/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nl/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/nl/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nn-NO/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/nn-NO/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/nso/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/nso/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/oc/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/oc/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/or/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/or/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pa-IN/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/pa-IN/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pl/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/pl/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pt-BR/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/pt-BR/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/pt-PT/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/pt-PT/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/rm/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/rm/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ro/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ro/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ru/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ru/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/rw/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/rw/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sah/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sah/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/si/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/si/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sk/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sk/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sl/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sl/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/son/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/son/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sq/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sq/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sr/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sr/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sv-SE/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sv-SE/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/sw/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/sw/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ta-LK/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ta-LK/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ta/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ta/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/te/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/te/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/th/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/th/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/tl/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/tl/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/tn/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/tn/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/tr/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/tr/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/uk/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/uk/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/ur/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/ur/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/vi/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/vi/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/wo/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/wo/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/xh/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/xh/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/zh-CN/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/zh-CN/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/zh-TW/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/zh-TW/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/locale/zu/viewer.properties" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/locale/zu/viewer.properties" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.css" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/viewer.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.html" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/viewer.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.js" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/viewer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/vendor/pdfjs/web/viewer.min.css" afterPath="$PROJECT_DIR$/works-info/pdfjs/web/viewer.min.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/works-info/pdf-1.html" afterPath="$PROJECT_DIR$/works-info/pdf-1.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -397,11 +399,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="569" column="44" lean-forward="true" selection-start-line="569" selection-start-column="44" selection-end-line="569" selection-end-column="44" />
+            <state relative-caret-position="6768">
+              <caret line="561" column="57" lean-forward="false" selection-start-line="561" selection-start-column="57" selection-end-line="561" selection-end-column="57" />
               <folding>
                 <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -417,55 +419,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pdf-1.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pdf-1.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/works-info/pdf-1.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="viewer.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/pdfjs/web/viewer.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="7696" column="18" lean-forward="false" selection-start-line="7696" selection-start-column="7" selection-end-line="7696" selection-end-column="18" />
+            <state relative-caret-position="360">
+              <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="viewer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/pdfjs/web/viewer.html">
+        <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pdf.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/pdfjs/build/pdf.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="2461" column="35" lean-forward="false" selection-start-line="2461" selection-start-column="28" selection-end-line="2461" selection-end-column="35" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="work1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/works-info/work1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="7" />
+            <state relative-caret-position="525">
+              <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
               <folding />
             </state>
           </provider>
@@ -553,14 +525,15 @@
       <list>
         <option value="$PROJECT_DIR$/vendor/echo/echo.js" />
         <option value="$PROJECT_DIR$/js/creative.js" />
-        <option value="$PROJECT_DIR$/works-info/work1.html" />
         <option value="$PROJECT_DIR$/works-info/work2.html" />
         <option value="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/creative.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/works-info/pdf-1.html" />
         <option value="$PROJECT_DIR$/vendor/pdfjs/web/viewer.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/works-info/pdfjs/web/viewer.html" />
+        <option value="$PROJECT_DIR$/works-info/work1.html" />
+        <option value="$PROJECT_DIR$/works-info/pdf-1.html" />
       </list>
     </option>
   </component>
@@ -612,73 +585,20 @@
             <path>
               <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="creative.css" type="620a8d5e:NestingTreeNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="icon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
-              <item name="test-img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="pdfjs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="pdfjs" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="pdfjs" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="works-info" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="works-info" type="462c0819:PsiDirectoryNode" />
+              <item name="pdfjs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RiaZhang.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RiaZhang.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="works-info" type="462c0819:PsiDirectoryNode" />
+              <item name="pdfjs" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -835,12 +755,12 @@
       <workItem from="1504189848391" duration="3030000" />
       <workItem from="1504200830005" duration="3262000" />
       <workItem from="1504277542565" duration="3282000" />
-      <workItem from="1504311953331" duration="663000" />
+      <workItem from="1504311953331" duration="1792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77777000" />
+    <option name="totallyTimeSpent" value="78906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -851,7 +771,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769045" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1197,15 +1117,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works-info/work1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/pdfjs/build/pdf.js">
+    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/build/pdf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
           <caret line="2461" column="35" lean-forward="false" selection-start-line="2461" selection-start-column="28" selection-end-line="2461" selection-end-column="35" />
@@ -1215,15 +1127,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/pdfjs/web/viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="359" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/pdfjs/web/viewer.js">
+    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="7696" column="18" lean-forward="false" selection-start-line="7696" selection-start-column="7" selection-end-line="7696" selection-end-column="18" />
@@ -1233,18 +1137,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works-info/pdf-1.html">
+    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works-info/work1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="569" column="44" lean-forward="true" selection-start-line="569" selection-start-column="44" selection-end-line="569" selection-end-column="44" />
+        <state relative-caret-position="6768">
+          <caret line="561" column="57" lean-forward="false" selection-start-line="561" selection-start-column="57" selection-end-line="561" selection-end-column="57" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -1255,6 +1167,18 @@
             <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/works-info/pdf-1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="false" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
