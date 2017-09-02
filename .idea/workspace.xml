@@ -2,9 +2,121 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="659b5319-f11f-4674-baea-86131b4ecb40" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/webpjs-0.0.2.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg.PNG" afterPath="$PROJECT_DIR$/img/bg.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg.jpg" afterPath="$PROJECT_DIR$/img/bg.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bg.tif" afterPath="$PROJECT_DIR$/img/bg.tif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cover.gif" afterPath="$PROJECT_DIR$/img/cover.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cover_l.gif" afterPath="$PROJECT_DIR$/img/cover_l.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cover_m.gif" afterPath="$PROJECT_DIR$/img/cover_m.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/header.jpg" afterPath="$PROJECT_DIR$/img/header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icon/kitty.ico" afterPath="$PROJECT_DIR$/img/icon/kitty.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/Gundam/6.jpg" afterPath="$PROJECT_DIR$/img/portfolio/Gundam/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/Gundam/7.jpg" afterPath="$PROJECT_DIR$/img/portfolio/Gundam/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0001.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0001.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0002.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0002.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0003.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0003.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0004.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0004.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0005.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0005.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0006.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0006.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0007.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0007.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0008.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0008.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0009.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0009.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0010.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0010.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0011.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0011.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0012.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0012.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0013.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0013.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0014.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0014.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0015.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0015.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0016.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0016.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0017.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0017.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0018.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0018.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0019.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0019.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0020.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0020.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0021.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0021.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0022.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0022.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0023.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0023.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0024.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0024.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0025.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0025.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0026.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0026.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0027.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0027.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0028.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0028.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/china/0029.jpg" afterPath="$PROJECT_DIR$/img/portfolio/china/0029.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/city-UI/4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/city-UI/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/brand-bed.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/brand-bed.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/brand-u.gif" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/brand-u.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/papera.gif" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/papera.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/prod-china.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/prod-china.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/prod-p.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/prod-p.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/fullsize/user-touch.jpg" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/user-touch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/magicwheels/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/magicwheels/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/magicwheels/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/magicwheels/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/magicwheels/3.png" afterPath="$PROJECT_DIR$/img/portfolio/magicwheels/3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/magicwheels/4.png" afterPath="$PROJECT_DIR$/img/portfolio/magicwheels/4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/magicwheels/5.png" afterPath="$PROJECT_DIR$/img/portfolio/magicwheels/5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/test-img/w.jpeg" afterPath="$PROJECT_DIR$/img/portfolio/test-img/w.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/brand-bed.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/brand-bed.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/brand-u.gif" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/brand-u.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/papera.gif" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/papera.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-Different.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-Different.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-Magicball.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-Magicball.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-SoftBone移动电源.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-SoftBone移动电源.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-gunpla.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-gunpla.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-my-documentary.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-my-documentary.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-paper.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-paper.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-version.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-version.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-冰泉豆浆.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-冰泉豆浆.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-手作调酒勺.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-手作调酒勺.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-电动汽车仪表盘.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-电动汽车仪表盘.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-绿活族.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-绿活族.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-网页设计.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-网页设计.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-色彩空间构成.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-色彩空间构成.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-蒲璞.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-蒲璞.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-蒸汽朋克机械钟.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-蒸汽朋克机械钟.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-雨染江南.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/pre-雨染江南.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/prod-china.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/prod-china.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/prod-p.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/prod-p.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/user-touch.jpg" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/user-touch.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/1.gif" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/10.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/11.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/12.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/13.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/14.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/15.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/16.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/17.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/18.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/19.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/2.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/20.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/21.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/22.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/3.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/4.gif" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/4.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/5.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/6.gif" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/6.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/7.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/8.gif" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/8.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/portfolio/unreal-art/9.jpg" afterPath="$PROJECT_DIR$/img/portfolio/unreal-art/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/video-poster/cover1.gif" afterPath="$PROJECT_DIR$/img/video-poster/cover1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/video-poster/poster.png" afterPath="$PROJECT_DIR$/img/video-poster/poster.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,11 +141,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5580">
-              <caret line="1003" column="0" lean-forward="false" selection-start-line="1003" selection-start-column="4" selection-end-line="1007" selection-end-column="13" />
+            <state relative-caret-position="11616">
+              <caret line="875" column="61" lean-forward="false" selection-start-line="875" selection-start-column="56" selection-end-line="875" selection-end-column="61" />
               <folding>
                 <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -84,12 +196,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="615">
-                <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+              <first_editor relative-caret-position="-68">
+                <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -109,7 +221,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>fa-en</find>
       <find>portfolio-box</find>
       <find>#777</find>
       <find>&lt;div class=&quot;col-lg-8 col-lg-offset-2&quot;&gt;</find>
@@ -139,6 +250,7 @@
       <find>modal</find>
       <find>DEFAUlt</find>
       <find>default_url</find>
+      <find>.jpg</find>
     </findStrings>
     <replaceStrings>
       <replace>white</replace>
@@ -146,6 +258,7 @@
       <replace>width=80%</replace>
       <replace>col-lg-12 col-xs-12 col-sm-12</replace>
       <replace>portfolioModal-404notfound</replace>
+      <replace>.webp</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -158,7 +271,6 @@
         <option value="$PROJECT_DIR$/js/creative.js" />
         <option value="$PROJECT_DIR$/works-info/work2.html" />
         <option value="$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/vendor/pdfjs/web/viewer.js" />
         <option value="$PROJECT_DIR$/works-info/pdfjs/web/viewer.html" />
@@ -166,6 +278,7 @@
         <option value="$PROJECT_DIR$/works-info/pdf-1.html" />
         <option value="$PROJECT_DIR$/vendor/webpjs-0.0.2.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -206,7 +319,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,7 +347,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -385,12 +498,13 @@
       <workItem from="1504189848391" duration="3030000" />
       <workItem from="1504200830005" duration="3262000" />
       <workItem from="1504277542565" duration="3282000" />
-      <workItem from="1504311953331" duration="3027000" />
+      <workItem from="1504311953331" duration="3154000" />
+      <workItem from="1504338461378" duration="910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80141000" />
+    <option name="totallyTimeSpent" value="81178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -721,23 +835,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="615">
-            <caret line="41" column="31" lean-forward="false" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7050">
@@ -746,34 +843,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/build/pdf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="2461" column="35" lean-forward="false" selection-start-line="2461" selection-start-column="28" selection-end-line="2461" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="7696" column="18" lean-forward="false" selection-start-line="7696" selection-start-column="7" selection-end-line="7696" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="64" lean-forward="false" selection-start-line="35" selection-start-column="64" selection-end-line="35" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/build/pdf.js" />
+    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.js" />
+    <entry file="file://$PROJECT_DIR$/works-info/pdfjs/web/viewer.html" />
     <entry file="file://$PROJECT_DIR$/works-info/work1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="12" column="28" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="146" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/webpjs-0.0.2.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="66763" lean-forward="false" selection-start-line="30" selection-start-column="66763" selection-end-line="30" selection-end-column="66763" />
           <folding />
         </state>
       </provider>
@@ -791,18 +874,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vendor/webpjs-0.0.2.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="66763" lean-forward="false" selection-start-line="30" selection-start-column="66763" selection-end-line="30" selection-end-column="66763" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5580">
-          <caret line="1003" column="0" lean-forward="false" selection-start-line="1003" selection-start-column="4" selection-end-line="1007" selection-end-column="13" />
+        <state relative-caret-position="11616">
+          <caret line="875" column="61" lean-forward="false" selection-start-line="875" selection-start-column="56" selection-end-line="875" selection-end-column="61" />
           <folding>
             <element signature="n#script#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -814,6 +889,23 @@
             <element signature="n#style#0;n#button#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-68">
+            <caret line="17" column="22" lean-forward="false" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
