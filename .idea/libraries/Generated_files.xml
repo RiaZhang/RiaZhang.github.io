@@ -2,13 +2,27 @@
   <library name="Generated files" type="javaScript">
     <properties>
       <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/vendor/ViewerJS/ui_utils.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/ViewerJS/webodf.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/ViewerJS/pdfjsversion.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/ViewerJS/compatibility.min.js" />
         <item url="file://$PROJECT_DIR$/js/creative.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/pdfjs-1.8.188-dist/web/l10n.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/ViewerJS/text_layer_builder.min.js" />
+        <item url="file://$PROJECT_DIR$/vendor/pdfjs-1.8.188-dist/web/debugger.min.js" />
         <item url="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" />
         <item url="file://$PROJECT_DIR$/vendor/echo/echo.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/vendor/ViewerJS/ui_utils.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/ViewerJS/webodf.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/ViewerJS/pdfjsversion.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/ViewerJS/compatibility.min.js" />
       <root url="file://$PROJECT_DIR$/js/creative.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/pdfjs/web/l10n.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/ViewerJS/text_layer_builder.min.js" />
+      <root url="file://$PROJECT_DIR$/vendor/pdfjs/web/debugger.min.js" />
       <root url="file://$PROJECT_DIR$/vendor/scrollreveal/scrollreveal.min.js" />
       <root url="file://$PROJECT_DIR$/vendor/echo/echo.min.js" />
     </CLASSES>
