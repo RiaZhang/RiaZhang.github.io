@@ -651,9 +651,15 @@ embed {
   height: 556px;
   width: 680px;
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   embed {
     height: 556px;
-    width: 80%;
+    width: 95%;
   }
+}
+
+.container {
+  width: 100%;
+  padding-right: 10px;
+  padding-left: 10px;
 }
