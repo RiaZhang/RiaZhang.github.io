@@ -484,11 +484,31 @@ body {
   font-size: 2em;
   color: #121212;
 }
+.vegetarian-modal h4{
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 15%;
+}
 /*.portfolio-modal .modal-content h2 {*/
   /*color: #121212;*/
 /*}*/
 .portfolio-modal .modal-content p {
   color: #121212;
+}
+.vegetarian-modal p{
+  padding-left: 15%;
+  padding-right: 15%;
+  text-align: left;
+}
+@media (max-width: 1200px){
+  .vegetarian-modal p {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .vegetarian-modal h4{
+    padding-left: 0;
+    padding-right: 0%;
+  }
 }
 .portfolio-modal .modal-content img {
   margin-bottom: 0px;
