@@ -32,16 +32,27 @@
 
 <body>
 <div>
-    <img src="../img/portfolio/art-article/0001.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/art-article/0002.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/art-article/0003.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/art-article/0004.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/art-article/0005.jpg" class="img-responsive img-centered" alt="">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/art-article/0001.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/art-article/0002.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/art-article/0003.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/art-article/0004.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/art-article/0005.jpg">
 </div>
 <script>
     $(document).ready(function () {
         $('[data-toggle="tooltip"]').tooltip();
     });
+</script>
+<!-- load echo -->
+<script src="../vendor/echo/echo.min.js"></script>
+<script>
+    echo.init({
+        offset: 2000,
+        throttle: 100,
+        callback: function (element, op) {
+            console.log(element, 'has been', op + 'ed')
+        }
+    })
 </script>
 
 </body>

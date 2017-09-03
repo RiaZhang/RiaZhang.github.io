@@ -32,23 +32,33 @@
 
 <body>
     <div>
-        <img src="../img/portfolio/ice-water/0001.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0002.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0003.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0004.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0005.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0006.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0007.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0008.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0009.jpg" class="img-responsive img-centered" alt="">
-        <img src="../img/portfolio/ice-water/0010.jpg" class="img-responsive img-centered" alt="">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0001.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0002.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0003.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0004.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0005.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0006.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0007.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0008.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0009.jpg">
+        <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/ice-water/0010.jpg">
     </div>
     <script>
         $(document).ready(function () {
             $('[data-toggle="tooltip"]').tooltip();
         });
     </script>
-
+    <!-- load echo -->
+    <script src="../vendor/echo/echo.min.js"></script>
+    <script>
+        echo.init({
+            offset: 2000,
+            throttle: 100,
+            callback: function (element, op) {
+                console.log(element, 'has been', op + 'ed')
+            }
+        })
+    </script>
 </body>
 
 </html>

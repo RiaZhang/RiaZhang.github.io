@@ -32,33 +32,43 @@
 
 <body>
 <div>
-    <img src="../img/portfolio/doge-ball/0001.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0002.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0003.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0004.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0005.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0006.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0007.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0008.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0009.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0010.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0011.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0012.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0013.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0014.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0015.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0016.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0017.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0018.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0019.jpg" class="img-responsive img-centered" alt="">
-    <img src="../img/portfolio/doge-ball/0020.jpg" class="img-responsive img-centered" alt="">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0001.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0002.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0003.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0004.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0005.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0006.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0007.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0008.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0009.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0010.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0011.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0012.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0013.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0014.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0015.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0016.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0017.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0018.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0019.jpg">
+    <img src="../img/blank.gif" class="img-responsive img-centered" alt="" data-echo="../img/portfolio/doge-ball/0020.jpg">
 </div>
 <script>
     $(document).ready(function () {
         $('[data-toggle="tooltip"]').tooltip();
     });
 </script>
-
+<!-- load echo -->
+<script src="../vendor/echo/echo.min.js"></script>
+<script>
+    echo.init({
+        offset: 2000,
+        throttle: 100,
+        callback: function (element, op) {
+            console.log(element, 'has been', op + 'ed')
+        }
+    })
+</script>
 </body>
 
 </html>
