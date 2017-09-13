@@ -233,6 +233,14 @@ header .header-content .header-content-inner p {
     margin-right: auto;
   }
 }
+@media (max-width: 767px) {
+  header .header-content {
+    padding-top: 600px;
+  }
+  header .header-content-inner {
+    padding-bottom: 250px;
+  }
+}
 .section-heading {
   margin-top: 0;
 }
